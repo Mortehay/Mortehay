@@ -9,7 +9,6 @@ Most of my production work lives in private company repos (Secureonelabs, FixThe
 
 - **[something2](https://github.com/Mortehay/something2)** — real-time 2D MMORPG (Node, WebSockets, React, Postgres, Redis); all art, audio and text generated with local models
 - **[mobile-app-with-back](https://github.com/Mortehay/mobile-app-with-back)** — Django 5 + Celery + PostgreSQL API with a React 19 web app and an Expo mobile app (Google sign-in, JWT), fully Dockerized
-- **[evolution-blog](https://github.com/Mortehay/evolution-blog)** — Dockerized PHP 8.4 blog on Evolution CMS with MariaDB
 - **[try-train-llm](https://github.com/Mortehay/try-train-llm)** — CPU-only MLOps pipeline: webcam face recognition, versioned model, live WebSocket dashboard
 - **[llama-cpp-only-cpu](https://github.com/Mortehay/llama-cpp-only-cpu)** — local GPU pixel-art sprite generator (REST API + browser tool); started as a CPU llama.cpp cluster
 - **[roboarm-firmware](https://github.com/Mortehay/roboarm-firmware)** / **[roboarm-control](https://github.com/Mortehay/roboarm-control)** — ESP32/Arduino firmware and desktop control app for a 5-joint robot arm
